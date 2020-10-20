@@ -1,6 +1,6 @@
 
 fun main(): Unit {
-
+    println()
 }
 
 
